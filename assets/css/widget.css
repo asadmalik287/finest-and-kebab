@@ -249,6 +249,14 @@ footer .swin-widget .title-widget {
     border-bottom: 0;
 }
 
+.address-info {
+    width: 60%;
+}
+
+.phone-info {
+    width: 40%;
+}
+
 
 /* .about-contact-info .address-info {
   width: 40%;
