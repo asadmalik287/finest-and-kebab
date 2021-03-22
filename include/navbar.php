@@ -4,10 +4,10 @@
               <div class="topbar-left">
                 <div class="topbar-content">
                   <div class="item"> 
-                    <div class="wg-contact"><i class="fa fa-map-marker"></i><span>5a Central Avenue, Welling, Kent, DA16 3AX</span></div>
+                    <div class="wg-contact"><i class="fa fa-map-marker"></i><span>35 Bexley Road Erith DAB 1SH</span></div>
                   </div>
                   <div class="item"> 
-                    <div class="wg-contact"><i class="fa fa-phone"></i><span>020 8304 1053</span></div>
+                    <div class="wg-contact"><i class="fa fa-phone"></i><span>01322334886</span></div>
                   </div>
                 </div>
               </div>
