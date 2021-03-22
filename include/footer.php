@@ -38,7 +38,7 @@
                         <div class="about-contact-info clearfix">
                           <div class="address-info d-flexAlignItemsCenter">
                             <div class="info-icon"><i class="fa fa-map-marker"></i></div>
-                            <div class="info-content">
+                            <div class="info-content mb-0">
                               <p class="m-0">35 Bexley Road Erith DAB 1SH</p>
                               <!-- <p>689 Lynn Street South Boston</p> -->
                             </div>
@@ -52,7 +52,7 @@
                           </div>
                           <div class="email-info d-flexAlignItemsCenter">
                             <div class="info-icon"><i class="fa fa-envelope"></i></div>
-                            <div class="info-content">
+                            <div class="info-content mb-0">
                               <p class="m-0">finestkebabandchicken@gmail.com</p>
                          
                             </div>

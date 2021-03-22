@@ -243,6 +243,7 @@ footer .swin-widget .title-widget {
     padding-bottom: 20px;
     margin-top: 30px;
     margin-bottom: 20px;
+    text-align: justify;
 }
 
 .wget-about-content:last-child {
@@ -280,9 +281,9 @@ footer .swin-widget .title-widget {
 }
 
 .about-contact-info .info-icon {
-    width: 35px;
     height: 50px;
     float: left;
+    padding-right: 15px;
     text-align: left;
     line-height: 50px;
 }
@@ -293,6 +294,11 @@ footer .swin-widget .title-widget {
     border-bottom: 1px solid #fff;
     padding-bottom: 5px;
 }
+
+
+/* .mb-0 {
+    margin-bottom: 0px !important;
+} */
 
 .about-contact-info .email-info .info-icon i {
     font-size: 25px;
