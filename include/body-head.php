@@ -20,7 +20,6 @@
     <link rel="stylesheet" href="assets/vendors/animate.min.css">
     <link rel="stylesheet" href="assets/vendors/bootstrap-datepicker/css/bootstrap-datepicker.min.css">
     <link rel="stylesheet" href="assets/vendors/pageloading/css/component.min.css">
-    <link rel="stylesheet" href="assets/vendors/dialog/css/dialog.css">
     <!-- Font-icon-->
     <link rel="stylesheet" href="assets/fonts/font-icon/style.css">
     <!-- Style-->
@@ -28,6 +27,7 @@
     <link rel="stylesheet" type="text/css" href="assets/css/elements.css">
     <link rel="stylesheet" type="text/css" href="assets/css/extra.css">
     <link rel="stylesheet" type="text/css" href="assets/css/widget.css">
+    <!--link#colorpattern(rel='stylesheet', type='text/css', href='assets/css/color/colordefault.css')-->
     <link rel="stylesheet" type="text/css" href="assets/css/responsive.css">
     <!-- Google Font-->
     <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,700i" rel="stylesheet">
